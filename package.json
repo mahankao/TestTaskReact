@@ -16,12 +16,19 @@
     "author": "Grant Bartlett",
     "license": "MIT",
     "dependencies": {
+        "@tanstack/react-query": "^4.42.2",
+        "antd": "^5.29.3",
+        "axios": "^1.13.2",
+        "dayjs": "^1.11.19",
         "react": "^16.14.0",
-        "react-dom": "^16.14.0"
+        "react-dom": "^16.14.0",
+        "react-router-dom": "^6.30.3",
+        "styled-components": "^5.3.11"
     },
     "devDependencies": {
         "@types/react": "^16.14.68",
         "@types/react-dom": "^16.9.25",
+        "@types/styled-components": "^5.1.36",
         "clean-webpack-plugin": "^4.0.0",
         "copy-webpack-plugin": "^11.0.0",
         "css-loader": "^6.7.1",
